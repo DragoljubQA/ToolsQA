@@ -226,11 +226,5 @@ public class ElementsTest extends Base {
             }
         }
     }
-    
-
-    @Test
-    public void testForPR() {
-
-    }
 
 }
